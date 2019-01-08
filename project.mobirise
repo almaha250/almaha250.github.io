@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page5.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2611,7 +2611,7 @@
     "page4.html": {
       "settings": {
         "meta_descr": "Website Maker Description",
-        "title": "Page 4",
+        "title": "معهد الخزامى للتدريب ",
         "order": 2
       },
       "components": [
